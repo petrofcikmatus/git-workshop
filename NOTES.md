@@ -22,5 +22,9 @@ Potom:
 
 `git add .` - aktuálnu zložku a podzložky
 
-`git blame <nazov suboru>` - niečo ako rýchly log
+`git blame <nazov suboru>` - niečo ako rýchly prehľad riadkov a kto ich naposledy menil
+
+`git reset --hard` - vymazanie commitov 
+
+`git reset --soft` - vymazanie commitov ale ponechajú sa súbory vo workspace
 
