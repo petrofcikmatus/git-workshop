@@ -16,12 +16,9 @@ Potom:
 
 ## Zaujímavé príkazy
 
-`git show`
+`git show` - diff posledných 2 commitov
 
 `git add -a` alebo `git add --all` - celý repozitár
 
 `git add .` - aktuálnu zložku a podzložky
-
-
-
 
