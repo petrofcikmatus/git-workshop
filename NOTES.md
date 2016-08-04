@@ -22,3 +22,5 @@ Potom:
 
 `git add .` - aktuálnu zložku a podzložky
 
+`git blame <nazov suboru>` - niečo ako rýchly log
+
